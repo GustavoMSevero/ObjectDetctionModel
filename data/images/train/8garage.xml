@@ -1,0 +1,26 @@
+<annotation>
+	<folder>gar</folder>
+	<filename>8garage.jpg</filename>
+	<path>/Users/gustavo/projects/dump/tf_files/locate_vaccancies/gar/8garage.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>285</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vag4</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>230</ymin>
+			<xmax>284</xmax>
+			<ymax>314</ymax>
+		</bndbox>
+	</object>
+</annotation>

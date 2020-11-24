@@ -1,0 +1,26 @@
+<annotation>
+	<folder>vag</folder>
+	<filename>29vaccancy.jpg</filename>
+	<path>/Users/gustavo/projects/dump/tf_files/locate_vaccancies/vag/29vaccancy.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>751</width>
+		<height>330</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vag26</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>292</xmin>
+			<ymin>79</ymin>
+			<xmax>751</xmax>
+			<ymax>295</ymax>
+		</bndbox>
+	</object>
+</annotation>
