@@ -1,0 +1,26 @@
+<annotation>
+	<folder>v</folder>
+	<filename>v84.jpg</filename>
+	<path>/Users/gustavo/LAB/object_detection_demo/data/v/v84.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>v45</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>99</ymin>
+			<xmax>668</xmax>
+			<ymax>244</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>v</folder>
+	<filename>v12.jpg</filename>
+	<path>/Users/gustavo/LAB/object_detection_demo/data/v/v12.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>v7</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>318</ymin>
+			<xmax>798</xmax>
+			<ymax>441</ymax>
+		</bndbox>
+	</object>
+</annotation>

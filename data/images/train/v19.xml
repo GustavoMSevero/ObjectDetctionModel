@@ -1,0 +1,26 @@
+<annotation>
+	<folder>v</folder>
+	<filename>v19.jpg</filename>
+	<path>/Users/gustavo/LAB/object_detection_demo/data/v/v19.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>v11</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>304</ymin>
+			<xmax>790</xmax>
+			<ymax>459</ymax>
+		</bndbox>
+	</object>
+</annotation>
