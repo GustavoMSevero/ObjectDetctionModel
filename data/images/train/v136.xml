@@ -1,0 +1,26 @@
+<annotation>
+	<folder>v</folder>
+	<filename>v136.jpg</filename>
+	<path>/Users/gustavo/LAB/object_detection_demo/data/v/v136.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>v71</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>163</ymin>
+			<xmax>793</xmax>
+			<ymax>268</ymax>
+		</bndbox>
+	</object>
+</annotation>

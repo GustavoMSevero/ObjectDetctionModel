@@ -1,0 +1,26 @@
+<annotation>
+	<folder>g</folder>
+	<filename>g69.jpg</filename>
+	<path>/Users/gustavo/LAB/object_detection_demo/data/g/g69.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>g38</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>533</xmin>
+			<ymin>399</ymin>
+			<xmax>796</xmax>
+			<ymax>598</ymax>
+		</bndbox>
+	</object>
+</annotation>
